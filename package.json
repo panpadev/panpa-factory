@@ -1,0 +1,23 @@
+{
+  "name": "panpa-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node index.js"
+  },
+  "keywords": [
+    "contract",
+    "deploy",
+    "web3",
+    "build",
+    "compile"
+  ],
+  "author": "panpa.dev",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "fs": "^0.0.1-security",
+    "solc": "^0.8.4"
+  }
+}
